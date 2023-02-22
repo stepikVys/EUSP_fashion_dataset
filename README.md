@@ -1,1 +1,1 @@
-# EUSP-YA_fashion_dataset
+# EUSP_fashion_dataset
